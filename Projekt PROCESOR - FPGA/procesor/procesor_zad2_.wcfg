@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_processor_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_processor" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="57470fs"></ZoomStartTime>
+      <ZoomEndTime time="98271fs"></ZoomEndTime>
+      <Cursor1Time time="49090fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="148"></NameColumnWidth>
+      <ValueColumnWidth column_width="67"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/tb_processor/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_processor/processor1/r0_wire" type="array">
+      <obj_property name="ElementShortName">r0_wire[7:0]</obj_property>
+      <obj_property name="ObjectShortName">r0_wire[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_processor/processor1/r1_wire" type="array">
+      <obj_property name="ElementShortName">r1_wire[7:0]</obj_property>
+      <obj_property name="ObjectShortName">r1_wire[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_processor/processor1/r2_wire" type="array">
+      <obj_property name="ElementShortName">r2_wire[7:0]</obj_property>
+      <obj_property name="ObjectShortName">r2_wire[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_processor/processor1/r3_wire" type="array">
+      <obj_property name="ElementShortName">r3_wire[7:0]</obj_property>
+      <obj_property name="ObjectShortName">r3_wire[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_processor/processor1/r4_wire" type="array">
+      <obj_property name="ElementShortName">r4_wire[7:0]</obj_property>
+      <obj_property name="ObjectShortName">r4_wire[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_processor/processor1/r5_wire" type="array">
+      <obj_property name="ElementShortName">r5_wire[7:0]</obj_property>
+      <obj_property name="ObjectShortName">r5_wire[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_processor/processor1/pc_addr" type="array">
+      <obj_property name="ElementShortName">pc_addr[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_addr[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_processor/processor1/gpi" type="array">
+      <obj_property name="ElementShortName">gpi[7:0]</obj_property>
+      <obj_property name="ObjectShortName">gpi[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_processor/processor1/gpo" type="array">
+      <obj_property name="ElementShortName">gpo[7:0]</obj_property>
+      <obj_property name="ObjectShortName">gpo[7:0]</obj_property>
+   </wvobject>
+</wave_config>

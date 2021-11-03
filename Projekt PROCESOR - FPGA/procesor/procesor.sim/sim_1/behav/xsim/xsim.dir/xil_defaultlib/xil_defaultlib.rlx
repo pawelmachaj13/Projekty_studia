@@ -1,0 +1,14 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/SR/procesor/procesor.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/SR/procesor/procesor.srcs/sim_1/new/tb_processor.v,1623841970,verilog,,,,tb_processor,,,,,,,,
+D:/SR/procesor/procesor.srcs/sources_1/imports/procesor/d_mem.v,1622720070,verilog,,D:/SR/procesor/procesor.srcs/sources_1/new/decoder.v,,d_mem,,,,,,,,
+D:/SR/procesor/procesor.srcs/sources_1/imports/procesor/i_mem.v,1623841752,verilog,,D:/SR/procesor/procesor.srcs/sources_1/new/jump.v,,i_mem,,,,,,,,
+D:/SR/procesor/procesor.srcs/sources_1/ip/c_addsub_0/sim/c_addsub_0.vhd,1621515637,vhdl,,,,c_addsub_0,,,,,,,,
+D:/SR/procesor/procesor.srcs/sources_1/new/alu.v,1623329711,verilog,,D:/SR/procesor/procesor.srcs/sources_1/imports/procesor/d_mem.v,,and_func;compare_zero;sum_func,,,,,,,,
+D:/SR/procesor/procesor.srcs/sources_1/new/decoder.v,1621694320,verilog,,D:/SR/procesor/procesor.srcs/sources_1/imports/procesor/i_mem.v,,decoder,,,,,,,,
+D:/SR/procesor/procesor.srcs/sources_1/new/jump.v,1622376845,verilog,,D:/SR/procesor/procesor.srcs/sources_1/new/processor_modules.v,,jump,,,,,,,,
+D:/SR/procesor/procesor.srcs/sources_1/new/processor_modules.v,1623331919,verilog,,D:/SR/procesor/procesor.srcs/sources_1/new/register.v,,processor,,,,,,,,
+D:/SR/procesor/procesor.srcs/sources_1/new/register.v,1621698576,verilog,,D:/SR/procesor/procesor.srcs/sim_1/new/tb_processor.v,,register,,,,,,,,

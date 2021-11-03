@@ -1,0 +1,21 @@
+movi R0, 0
+movi R1, 4
+addi R0, R0, 1
+movi R4, 1
+and R2, R0, R1
+jz R2, 2
+movi R4, 2
+mov R3, R5
+and R2, R5, R3
+jnz R2, 8
+movi R4, 4
+movi R0, 0
+movi R1, 4
+addi R0, R0, 1
+and R2, R0, R1
+jz R2, 12
+movi R4, 8
+mov R3, R5
+and R2, R5, R3
+jnz R2, 18
+jumpi 0
